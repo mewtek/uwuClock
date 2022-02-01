@@ -7,7 +7,11 @@
 	<source path="Source" />
 	
 	<haxelib name="openfl" />
-	
+	<!-- Asset Paths -->
 	<assets path="Assets" rename="assets" />
+	<assets path="Assets/fonts" rename="fonts"/>
+
+	<!-- OpenFl window/stage setup -->
+	<window width="1920" height="1080" resizable="true" framerate="60"/>
 	
 </project>
