@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	
-	<meta title="UwuClock" package="com.mewtek.uwuclock" version="1.0.0" company="mewtek32" />
+	<meta title="uwuClock" package="com.mewtek.uwuclock" version="1.0.0" company="mewtek32" />
 	<app main="Main" path="Export" file="UwuClock" />
 	
 	<source path="Source" />
